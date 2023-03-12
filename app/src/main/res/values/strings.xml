@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SeekBar</string>
+    <string name="text_view_text">Rating 0</string>
+    <string name="text_view_rate">What is the Rating of this Movie?</string>
+
+</resources>
